@@ -1,6 +1,6 @@
 ## basic-compiler
 
-This is my work for CP471 in Winter 2024.
+This is my work from an Intro to Compilers course.
 For each project section, there is a `.md` file with more information. 
 
 ### How to Run Full Compiler
